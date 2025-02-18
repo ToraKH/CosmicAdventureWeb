@@ -1,6 +1,6 @@
 # Cosmic Adventure
 
-## This is a website for the game Cosmic Adventure, which was made for the course INF-1400: Objektorientert programmering at UiT in 2024. 
+This is a website for the game Cosmic Adventure, which was made for the course INF-1400: Objektorientert programmering at UiT in 2024. 
 
 ### Author
 Tora K. Homme
