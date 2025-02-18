@@ -8,3 +8,6 @@ Tora K. Homme
 ## Run the website "offline"
 Locate the folder and click on the ```bash index.html``` file. The "offline" website should start.
 
+OR
+Just use the link: https://torakh.github.io/CosmicAdventureWeb/
+
